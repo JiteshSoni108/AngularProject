@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Study Angular",
+      "day": "Every Day",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Study Java",
+      "day": "Every Morning",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Tell Bhawna to Study",
+      "day": "Every Morning",
+      "reminder": false
+    },
+    {
+      "text": "Jitesh",
+      "day": "Every Day",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "ola",
+      "day": "ola",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Bhawna Interview Study",
+      "day": "Every Day",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
